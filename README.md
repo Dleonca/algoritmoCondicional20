@@ -1,0 +1,2 @@
+# algoritmoCondicional20
+En una fabricade computadoras se planea ofrecer a los clientes un descuento que dependerá del numero del computadores que compre. Si las computadoras son menos de 5 se dará un 10% de descuento sobre el total de la compra; si el numero de computadoras es mayor que 5 y menor que 10 se otorga un 20% de descuento; y si son 10 o mas se otorga un 40% de descuento. el precio de cada computadora se define antes de la compra. 
